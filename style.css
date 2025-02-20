@@ -1,0 +1,15 @@
+body{
+    background-color: lightskyblue;
+}
+
+.sun{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    margin-left: 50px;
+}
+
+.grass{
+    border-style: none;
+    background-color: green;
+}
